@@ -1,1 +1,1 @@
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=VOisdYbWuNTVLwdaHS5xkg&e=1748108190
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=qQYR4uk7YaqAxb4VhD-SYw&e=1748274454
