@@ -1,1 +1,1 @@
-https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=7fvdf2eka4d7&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+https://n2.cdn.jetstre.am/session/a3bb8e5d8c95673c8b58f2886c3402f1/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
